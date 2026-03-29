@@ -1,7 +1,7 @@
 ## ♠️ Alpha_Team
 ### The Royal Elite Gangsterz
 
-| Identity | Secure Alias / Email | Comms Code | Status |
+| Identity | Secure Alias / Email | Comms Code |        |
 | :--- | :--- | :--- | :---: |
 | **Don Quixote** | 3d3q3@3ll3.net | [+*******1933] | **-33-** |
 | **Ancora** | a.imparo@3ll3.net | [+*******7276] | |
