@@ -7,7 +7,7 @@
 | **Ancora** | a.imparo@3ll3.net | [+*******7276] | |
 | **Cactus Wren** | c.wren@3ll3.net | | |
 | **Herald** | herald@3ll3.net | | |
-| **Elyel** | el.el@3ll3.net | | |
+| **Elyel** | el.el@3ll3.net |                       | **-33-** |
 | **Enheduanna** | enheduanna@3ll3.net | | |
 | **Lamm Drew** | lamm.drew@3ll3.net | | |
 | **Kernel Mustard** | k.mustard@3ll3.net | | |
@@ -17,6 +17,6 @@
 | **Richard Feynman** | r.feynman@3ll3.net | | |
 | **Adverse Mary** | a.mary@3ll3.net | | |
 | **Franticus** | fr.anticus@3ll3.net | | |
-| **Nigel Cottonwood** | n.cottonwood@3ll3.net | | **-33-** |
+| **Nigel Cottonwood** | n.cottonwood@3ll3.net | |        |
 
 **Protocol:** 3ll3 | **Cycle:** 2026 | **Sector:** -33-
