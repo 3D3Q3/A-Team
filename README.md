@@ -1,5 +1,3 @@
----
-
 ## ♠️ Alpha_Team
 ### The Royal Elite Gangsterz
 
@@ -21,5 +19,4 @@
 | **Franticus** | fr.anticus@3ll3.net | | |
 | **Nigel Cottonwood** | n.cottonwood@3ll3.net | | **-33-** |
 
----
 **Protocol:** 3ll3 | **Cycle:** 2026 | **Sector:** -33-
